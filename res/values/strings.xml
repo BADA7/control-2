@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">androidcontrol2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="textoN">Name</string>
+    <string name="textoE">Email</string>
+	 <string name="botonenviar">Submit Form</string>
+</resources>
